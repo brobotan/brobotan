@@ -3,6 +3,7 @@
 My name is <strong>Bhavishya Raj</strong> and I am in the process of finding the most exciting thing to code at and oh, in doing so I made quite an enthusiast of myself. My current interests are in robotic process automation. Check out my socials below and shoot me a message if you want to chat
 
 </br> 
+
 <img align="right" height="250" width="375" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=brobotan&theme=vue&show_icons=true&hide_border=true" />
 
 ## Languages and Tools :computer:

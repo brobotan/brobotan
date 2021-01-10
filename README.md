@@ -1,6 +1,6 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-My name is <strong>Bhavishya Raj</strong> and I am in the process of finding the most exciting thing to code at and oh, in doing so I made quite an enthusiast of myself. My current interests are in robotic process automation. Check out my socials below and shoot me a message if you want to chat
+My name is <strong>Bhavishya Raj</strong> and I am in the process of finding the most exciting thing to code at and oh, in doing so I made quite an enthusiast of myself. My current interests are in predictive analysis. Check out my socials below and shoot me a message if you want to chat
 
 </br> 
 

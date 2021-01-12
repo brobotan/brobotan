@@ -5,7 +5,8 @@ My name is <strong>Bhavishya Raj</strong> and I am in the process of finding the
 </br> 
 
 <img align="right" margin-top="10" height="125" width="190" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brobotan&layout=compact&theme=radical" />
-<img align="right" margin-top="100" height="125" width="190" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=brobotan&count_private=true&theme=tokyonight&show_icons=true&hide_border=false" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brobotan&layout=compact&theme=radical)](https://github.com/brobotan/){style="float:right; padding:16px"}
+[![Profile](https://github-readme-stats.vercel.app/api?username=brobotan&count_private=true&theme=tokyonight&show_icons=true&hide_border=false)](https://github.com/brobotan/){style="float:right; padding:16px"}
 
 ## Languages and Tools :computer:
 

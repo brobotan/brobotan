@@ -4,8 +4,8 @@ My name is <strong>Bhavishya Raj</strong> and I am in the process of finding the
 
 </br> 
 
-<img align="right" height="250" width="375" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=brobotan&count_private=true&theme=tokyonight&show_icons=true&hide_border=false" />
-<img align="right" height="600" width="375" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brobotan&layout=compact&theme=radical" />
+<img align="right" margin-top="10" height="125" width="190" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brobotan&layout=compact&theme=radical" />
+<img align="right" margin-top="100" height="125" width="190" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=brobotan&count_private=true&theme=tokyonight&show_icons=true&hide_border=false" />
 
 ## Languages and Tools :computer:
 
